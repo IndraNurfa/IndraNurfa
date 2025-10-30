@@ -8,7 +8,7 @@
 
 </div>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -63,27 +63,40 @@
 
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-<div align="center">
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  height: 250px;  /* adjust this as needed */
+">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNurfa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNurfa&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact"
+  />
 
-![](https://github-readme-stats.vercel.app/api?username=IndraNurfa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=IndraNurfa&theme=tokyonight&hide_border=false)<br/>
+<img
+    src="https://github-readme-stats.vercel.app/api?username=IndraNurfa&theme=tokyonight&hide_border=false&include_all_commits=true"
+  />
 
 </div>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=IndraNurfa&label=Profile%20views&color=0e75b6&style=flat" alt="IndraNurfa" />
+</p>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=IndraNurfa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-indra-nurfauzi)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Day
 
 <div align="center">
 
@@ -92,5 +105,3 @@
 </div>
 
 ---
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=IndraNurfa&label=Profile%20views&color=0e75b6&style=flat" alt="IndraNurfa" /> </p>
