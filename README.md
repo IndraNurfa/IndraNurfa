@@ -65,24 +65,19 @@
 
 # 📊 GitHub Stats
 
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  height: 250px;  /* adjust this as needed */
-">
-
-<img
+<p align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNurfa&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" 
+    alt="Top Languages"
+  />
+  &nbsp;&nbsp;&nbsp; <!-- adds some horizontal space -->
+  <img 
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNurfa&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api?username=IndraNurfa&theme=tokyonight&hide_border=false&include_all_commits=true" 
+    alt="GitHub Stats"
   />
-
-<img
-    src="https://github-readme-stats.vercel.app/api?username=IndraNurfa&theme=tokyonight&hide_border=false&include_all_commits=true"
-  />
-
-</div>
+</p>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=IndraNurfa&label=Profile%20views&color=0e75b6&style=flat" alt="IndraNurfa" />
@@ -96,7 +91,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-indra-nurfauzi)
 
-### ✍️ Quote Of The Day
+### ✍️ Quote of The Day
 
 <div align="center">
 
