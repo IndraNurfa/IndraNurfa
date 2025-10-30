@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=450&color=timeGradient&text=Hello%20There-nl-%20Indra%20Nurfa%20Here&textBg=false&desc=Invent.%20Build.%20Evolve.&descAlign=0&descSize=30&descAlignY=70&fontColor=374151&animation=twinkling&fontAlignY=40&fontSize=70&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=450&color=timeGradient&text=Hello%20There-nl-%20Indra%20Nurfa%20Here&textBg=false&desc=Invent.%20Build.%20Evolve.&descAlign=0&descSize=30&descAlignY=70&fontColor=374151&animation=twinkling&fontAlignY=40&fontSize=70&reversal=false" /> </br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=374151&center=true&vCenter=true&multiline=true&width=750&height=150&lines=%F0%9F%92%A1+Integrity+guides+every+line+of+my+code;%F0%9F%97%A3%EF%B8%8F+Communication+keeps+collaboration+effective;%F0%9F%A7%A9+Responsibility+ensures+reliable+delivery+;%F0%9F%A7%A0+Analytical+thinking+drives+better+solutions;%E2%9A%A1+Adaptability+keeps+me+improving+every+day)](https://git.io/typing-svg)
 
